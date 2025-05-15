@@ -14,5 +14,10 @@
    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://wa.me/%3C963165671%3E)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
+<div>
+  <a herf="https://github.com/Guilhermebsdourado">
+  <img height="180em" align="center" src=https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebsdourado&langs_count=7&theme=react"/>
 ![snake gif](https://github.com/Guilhermebsdourado/blob/output/github-contribution-grid-snake.svg)
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guilhermebsdourado&repo=Guilhermebsdourado&theme=react)[(https://github.com/Guilhermebsdourado/Guilhermebsdourado)
+</div>
