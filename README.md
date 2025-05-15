@@ -18,6 +18,3 @@
   <a herf="https://github.com/Guilhermebsdourado">
   <img height="180em" align="center" src=https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebsdourado&langs_count=7&theme=react"/>
-![snake gif](https://github.com/Guilhermebsdourado/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guilhermebsdourado&repo=Guilhermebsdourado&theme=react)[(https://github.com/Guilhermebsdourado/Guilhermebsdourado)
-</div>
