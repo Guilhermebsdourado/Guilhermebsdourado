@@ -17,8 +17,11 @@
 <div>
   <a herf="https://github.com/Guilhermebsdourado">
   <img height="180em" align="center" src=https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermebsdourado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermebsdourado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
 </div>
     
+
+###
+<img src="https://raw.githubusercontent.com/Guilhermebsdourado/Guilhermebsdourado/output/snake.svg" alt="Snake animation" />
 
 ###
