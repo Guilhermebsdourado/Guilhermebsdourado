@@ -6,11 +6,7 @@
   <img align="center" alt="Guilhermebsdourado-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-###
 
 ###
 
@@ -29,7 +25,6 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-
 ###
 
 <br clear="both">
@@ -38,10 +33,15 @@
 
 ###
 
+##
+
+<img align="left" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+###
 
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=Guilhermebsdourado&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
