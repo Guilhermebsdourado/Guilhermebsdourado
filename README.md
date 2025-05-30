@@ -1,17 +1,13 @@
 ## Hello world, I'm Guilherme, be very welcome
+
+<p align="left">- My WhatsApp is (11) 963165671<br>- My gmail is guilhermebarsilva@gmail.com</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilhermebsdourado-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilhermebsdourado-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilhermebsdourado-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guilhermebsdourado-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-
-
-###
-
-<p align="left">- My WhatsApp is (11) 963165671<br>- My gmail is guilhermebarsilva@gmail.com</p>
-
 
 ###
 
