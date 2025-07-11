@@ -1,5 +1,5 @@
 
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/e4754bf4-4dd1-48b7-9bae-17f7b9991f7a" />
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/792386e7-d872-46a8-a378-f5c4c39d6820" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilhermebsdourado-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
