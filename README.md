@@ -15,7 +15,7 @@
 
  <div>
    <a href="https://github.com/Guilhermebsdourado" align="center">
-   <img height="200em" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebsdourado&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="200em" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebsdourado&layout=compact&langs_count=6&theme=tokyonight"/><br>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com?user=Guilhermebsdourado&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150"  alt="streak graph"/>
 </div>
