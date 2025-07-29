@@ -1,4 +1,8 @@
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/93ad7ef3-9919-4e11-9dde-a92004894345" />
+
+<img src="https://raw.githubusercontent.com/Guilhermebsdourado/Guilhermebsdourado/output/snake.svg" alt="Snake animation" />
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -18,3 +22,6 @@
    <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    </a>
 </div>
+<img src="https://raw.githubusercontent.com/Guilhermebsdourado/Guilhermebsdourado/output/snake.svg" alt="Snake animation" />
+
+###
