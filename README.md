@@ -10,10 +10,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+<div>
 <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="550" alt="Imagem"> 
-
+</div>
  <a href="https://github.com/Guilhermebsdourado" >
-   <img height="150em" align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebsdourado&layout=compact&langs_count=6&theme=tokyonight"/>
-   <img height="150em" width="380" src="https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="150em" align="left" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebsdourado&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    </a>
 </div>
