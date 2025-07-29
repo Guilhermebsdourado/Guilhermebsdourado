@@ -22,6 +22,3 @@
    <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    </a>
 </div>
-<img src="https://raw.githubusercontent.com/Guilhermebsdourado/Guilhermebsdourado/output/snake.svg" alt="Snake animation" />
-
-###
