@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Guilhermebsdourado/Guilhermebsdourado/output/snake.svg" alt="Snake animation"  />
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk4ZW9sN2wzOGtiZXJsZmpoaGgxdXZrOHlsNWVtcGE2N3o3bnNzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" height="50" alt="html5 logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
@@ -21,8 +21,13 @@
      ►Procuro manter meu código limpo e organizado, seguindo a Regra do Escoteiro, mencionada no livro Código Limpo, que diz: “deixar mais limpo do que quando encontrei”.  
 </div>
 <hr font="1'>
- <a href="https://github.com/Guilhermebsdourado" >
+  <a href="https://github.com/Guilhermebsdourado" >
   <img height="150em" align="left" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebsdourado&layout=compact&langs_count=6&theme=tokyonight"/>
   <img height="150em" align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github.com/user-attachments/assets/a6357c6c-8828-4e2b-a550-344f2375b909" width="130" alt="Imagem">
 </a>
+<div>
+  <img src="https://github.com/user-attachments/assets/a6357c6c-8828-4e2b-a550-344f2375b909" width="178" alt="Imagem">
+  <img src="https://lynnandtonic.com/assets/images/gifs/flex-direction-column.gif" width="130" alt="Imagem">
+  <img src="https://lynnandtonic.com/assets/images/gifs/z-index.gif" width="128" hieght=80 alt="Imagem">
+  <img src="https://lynnandtonic.com/assets/images/gifs/grid-to-flex.gif" width="228"  alt="Imagem">
+</div>
