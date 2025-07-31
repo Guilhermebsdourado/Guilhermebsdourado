@@ -22,8 +22,7 @@
 </div>
 <hr font="1'>
  <a href="https://github.com/Guilhermebsdourado" >
-  <img src="https://github.com/user-attachments/assets/319b871e-a443-4f4a-8da1-831f530119f4" width="100" align="left" alt="Imagem">
   <img height="150em" align="left" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebsdourado&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://github.com/user-attachments/assets/a6357c6c-8828-4e2b-a550-344f2375b909" width="130" align="right" alt="Imagem">
   <img height="150em" align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   </a>
+  <img src="https://github.com/user-attachments/assets/a6357c6c-8828-4e2b-a550-344f2375b909" width="130" alt="Imagem">
+</a>
