@@ -10,10 +10,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-<img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="430" align="right" alt="Imagem"> 
 </div>
 
-<div min-width="400" hieght="500">
+<div min-width="400" hieght="500" font-size="60">
      ► Sou um desenvolvedor Front-end em formação, apaixonado por tecnologia. 
    Estou sempre estudando e praticando para melhorar minhas habilidades, para que eu possa fazer sites mais modernos e responsivos. <br>
      ►Hoje eu estou mais focado em um curso de desenvolvimento web Frontend, mas almejo me tornar um desenvolvedor Full Stack. <br>
