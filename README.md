@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/93ad7ef3-9919-4e11-9dde-a92004894345" />
+<img width="1584" height="396" alt="Guilherme Barbosa – Analista de Dados | Python, SQL, Excel, Power BI" src="LINK_NOVO_AQUI" />
 <img src="https://raw.githubusercontent.com/Guilhermebsdourado/Guilhermebsdourado/output/snake.svg" alt="Snake animation"  />
 
 <div align="center">
