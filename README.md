@@ -10,7 +10,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <img width="60" height="55" background="0d1117"alt="powerbi (1)" src="https://github.com/user-attachments/assets/e268a9cd-fbe7-4183-a76c-4201538687c1" />
+  <img width="60" height="55" background="#0d1117"alt="powerbi (1)" src="https://github.com/user-attachments/assets/e268a9cd-fbe7-4183-a76c-4201538687c1" />
   <img width="60" height="55" alt="sql (1)" src="https://github.com/user-attachments/assets/6fd33d7f-38e4-43b6-abda-98de5c59404e" />
   <img width="60" height="55" alt="python (1)" src="https://github.com/user-attachments/assets/43e639e0-2bd6-4f54-bb8e-527cb5d03184" />
 
