@@ -10,7 +10,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/7a87668c-37b3-4698-8a57-8f7da03047fc" />
+  <img width="50" height="12" alt="image" src="https://github.com/user-attachments/assets/7a87668c-37b3-4698-8a57-8f7da03047fc" />
 </div>
 
 <div min-width="400" hieght="500" font-size="60">
