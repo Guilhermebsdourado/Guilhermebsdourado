@@ -12,7 +12,7 @@
   <img width="12" />
   <img width="60" height="55" alt="powerbi" src="https://github.com/user-attachments/assets/79542e66-db9b-4bd2-a050-624e4c269514" />
   <img width="12" />
-  <img width="60" height="55" alt="python" src="https://github.com/user-attachments/assets/14d5eb4c-0193-4c09-9f50-b0ad1bda4ebd" />
+  <img width="65" height="60" alt="python" src="https://github.com/user-attachments/assets/14d5eb4c-0193-4c09-9f50-b0ad1bda4ebd" />
   <img width="12" />
   <img width="60" height="55" alt="sql" src="https://github.com/user-attachments/assets/5b69a2a6-9e36-419f-b733-793cbdb3d9a4" />
 </div>
