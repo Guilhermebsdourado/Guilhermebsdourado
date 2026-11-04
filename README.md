@@ -10,10 +10,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <img width="60" height="55" background="#0d1117"alt="powerbi (1)" src="https://github.com/user-attachments/assets/e268a9cd-fbe7-4183-a76c-4201538687c1" />
-  <img width="60" height="55" alt="sql (1)" src="https://github.com/user-attachments/assets/6fd33d7f-38e4-43b6-abda-98de5c59404e" />
-  <img width="60" height="55" alt="python (1)" src="https://github.com/user-attachments/assets/43e639e0-2bd6-4f54-bb8e-527cb5d03184" />
-
+  <img width="60" height="55" alt="powerbi" src="https://github.com/user-attachments/assets/79542e66-db9b-4bd2-a050-624e4c269514" />
+  <img width="12" />
+  <img width="60" height="55" alt="python" src="https://github.com/user-attachments/assets/14d5eb4c-0193-4c09-9f50-b0ad1bda4ebd" />
+  <img width="12" />
+  <img width="60" height="55" alt="sql" src="https://github.com/user-attachments/assets/5b69a2a6-9e36-419f-b733-793cbdb3d9a4" />
 </div>
 
 <div min-width="400" hieght="500" font-size="60">
