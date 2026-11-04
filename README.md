@@ -10,21 +10,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <img width="291" height="187" alt="image" src="https://github.com/user-attachments/assets/1977e122-e225-47d4-a02d-86f35b3e43c4" />
+  <img width="60" height="55" alt="powerbi (1)" src="https://github.com/user-attachments/assets/e268a9cd-fbe7-4183-a76c-4201538687c1" />
+  <img width="60" height="55" alt="sql (1)" src="https://github.com/user-attachments/assets/6fd33d7f-38e4-43b6-abda-98de5c59404e" />
+  <img width="60" height="55" alt="python (1)" src="https://github.com/user-attachments/assets/43e639e0-2bd6-4f54-bb8e-527cb5d03184" />
+
 </div>
 
 <div min-width="400" hieght="500" font-size="60">
-     ► Sou um desenvolvedor Front-end em formação, apaixonado por tecnologia. 
-   Estou sempre estudando e praticando para melhorar minhas habilidades, para que eu possa fazer sites mais modernos e responsivos. <br> <br>
-     ►Hoje eu estou mais focado em um curso de desenvolvimento web Frontend, mas almejo me tornar um desenvolvedor Full Stack. <br> <br>
-     ►Buscando constantemente aprimorar minhas habilidades e aberto a aprender coisas novas.<br> <br>
-     ►Procuro manter meu código limpo e organizado. E tento seguir a Regra do Escoteiro, mencionada no livro Código Limpo, que diz: “deixar mais limpo do que quando encontrei”.   
+► Sou Analista de Dados, apaixonado por tecnologia e por transformar dados em informações que ajudam a tomar decisões melhores.
+
+► Gosto muito de programar! Para mim, escrever código é uma forma de resolver problemas, automatizar tarefas e encontrar respostas escondidas nos dados.
+
+► Uso **Python** (Pandas) para tratar e analisar dados, **SQL** para consultar e cruzar informações, **Excel** para análises rápidas e relatórios, e **Power BI** para criar dashboards claros e interativos.
+
+► Antes, estudei desenvolvimento Front-end. Essa base me deu lógica de programação, organização e cuidado com a forma como a informação é apresentada.
+
+► Sou movido pela curiosidade: estou sempre buscando estudar coisas novas e aprender mais, seja uma nova ferramenta, uma técnica de análise ou uma forma melhor de escrever código.
+
+► Procuro manter meu código e minhas análises limpos e organizados, seguindo a Regra do Escoteiro do livro *Código Limpo*: “deixar mais limpo do que quando encontrei”. Com dados, isso vale em dobro! 
 </div>
-<hr font="1'>
-  <a href="https://github.com/Guilhermebsdourado" >
-  <img height="150em" align="left" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebsdourado&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img height="150em" align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=Guilhermebsdourado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
+
 <div>
   <img src="https://github.com/user-attachments/assets/a6357c6c-8828-4e2b-a550-344f2375b909" width="178" alt="Imagem">
   <img src="https://lynnandtonic.com/assets/images/gifs/flex-direction-column.gif" width="130" alt="Imagem">
